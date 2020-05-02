@@ -7,7 +7,7 @@ Speed up you Gatsby site and shave 100kb off every page's JS bundle
 In your Gatsby project, with the latest `gatsby-cli` version installed, run:
 
 ```
-gatsby recipes https://github.com/hcavalieri/gatsby-recipe-preact/blob/master/recipe.mdx
+gatsby recipes https://raw.githubusercontent.com/hcavalieri/gatsby-recipe-preact/master/recipe.mdx
 ```
 
 And voilà! You've made the web faster, more accessible and sustainable, congrats 🙌
